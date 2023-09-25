@@ -2,10 +2,10 @@
 
 This project represents the culmination of the learning journey within the Alx program. Its primary objective is to deliver comprehensive solutions for compiling my work and hosting it on web servers, ensuring global accessibility to all internet users.
 
-## Technologies:
+## Languages:
 
-- HTML5
-- CSS
+- HTML
+- CSS/SASS
 - JavaScript
 
 ## Features:
