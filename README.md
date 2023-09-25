@@ -5,7 +5,7 @@ This project represents the culmination of the learning journey within the Alx p
 ## Languages:
 
 - HTML
-- CSS/SASS
+- CSS/SCSS
 - JavaScript
 
 ## Features:
